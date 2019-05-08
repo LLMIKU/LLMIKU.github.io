@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: 文章
+  url: /articles/
+  excerpt: "文章存档：记录一些个人的想法、经验和错误"
+  image: 400x250.gif
