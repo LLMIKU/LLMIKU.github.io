@@ -3,9 +3,10 @@
 title: "CooperLiu的博客"
 description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: 400x250.gif # 400x250 px default teaser image used in image archive grid
 locale: en
-url: "https://LLMIKU.github.io"
+# url: "https://LLMIKU.github.io"
+url: "http://127.0.0.1:4000"
 feed:
   path: atom.xml
 
