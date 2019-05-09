@@ -4,3 +4,8 @@
   url: /articles/
   excerpt: "文章存档：记录一些个人的想法、经验和错误"
   image: 400x250.gif
+
+- title: 关于
+  url: /about/
+  excerpt: "关于CooperLiu"
+  image: 400x250.gif
