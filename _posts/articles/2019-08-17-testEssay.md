@@ -18,6 +18,10 @@ countNum2:111
 
 .>ttt
 
+comic0:000
+releaseDate0:201908172254
+end0:201909172254
+
 comic1:11111
 releaseDate1:201908172254
 end1:201909172254
