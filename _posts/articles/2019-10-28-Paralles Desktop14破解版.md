@@ -24,11 +24,11 @@ image:
 链接: https://pan.baidu.com/s/1FdnQyM46uLZBiXGr3BARDQ 提取码: s1ip  
 Parallels Desktop 14破解版 适用于Mac。  
 关于安装方法：下面提供的是使用脚本自动安装的方法。  
-1. 下载完dmg包后，点击运行下图中的脚本（手动安装则参考下图中txt文件）。  
+1. 下载完dmg包后，点击运行下图中的脚本（手动安装则参考下图中txt文件）。
 <img src="{{ site.url }}/images/parallesDesktop_1.png" />  
-2. 会来到下图窗口，按照图中提示，按下Enter键：  
+2. 会来到下图窗口，按照图中提示，按下Enter键：
 <img src="{{ site.url }}/images/parallesDesktop_2.png" />  
-3. 第2步完成后会出现以下窗口，双击install进行安装即可，安装好后就大功告成，也不需要激活码：  
+3. 第2步完成后会出现以下窗口，双击install进行安装即可，安装好后就大功告成，也不需要激活码：
 <img src="{{ site.url }}/images/parallesDesktop_3.png" />  
 
 ## 总结
